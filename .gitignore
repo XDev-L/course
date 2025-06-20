@@ -1,0 +1,4 @@
+*.log
+!vip.log
+test1.txt
+node_packs/
